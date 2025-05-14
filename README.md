@@ -6,7 +6,7 @@ Este proyecto es una mejora visual de la plataforma **AluraPlay**, donde se apli
 
 ## 🌐 Proyecto final desplegado
 
-👉 https://vercel.com/cesars-projects-43ccbda0/alura-play
+👉 [URL](https://alura-play-eta-one.vercel.app/)
 
 ## 📸 Comparación de diseños
 
